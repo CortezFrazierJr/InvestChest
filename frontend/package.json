@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/derekwolpert/InvestChest#readme",
   "dependencies": {
-    "@babel/core": "^7.10.5",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-react": "^7.10.4",
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
